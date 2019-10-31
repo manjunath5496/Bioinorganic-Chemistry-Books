@@ -42,9 +42,13 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Bioinorganic-Chemistry-Books/blob/master/bor(22).pdf" style="text-decoration:none;">Techniques and Topics in Bioinorganic Chemistry</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bioinorganic-Chemistry-Books/blob/master/bor(18).pdf" style="text-decoration:none;">Bioinorganic Chemistry For Pharmacists</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bioinorganic-Chemistry-Books/blob/master/bor(23).pdf" style="text-decoration:none;">Bioinorganic Vanadium Chemistry</a></b></li>
 
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bioinorganic-Chemistry-Books/blob/master/bor(24).pdf" style="text-decoration:none;">Molybdenum and Tungsten Enzymes: Bioinorganic Chemistry</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bioinorganic-Chemistry-Books/blob/master/bor(25).pdf" style="text-decoration:none;">The Porphyrin Handbook, Volume 11: Bioinorganic and Bioorganic Chemistry</a></b></li>
 
 
 
